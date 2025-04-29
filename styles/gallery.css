@@ -99,9 +99,9 @@ section.gallery {
         aspect-ratio: 1/1;
         object-fit: cover;
         border-radius: 50%;
-      }
+        }
     }
-  }
+}
   
   @keyframes image-appear {
     from {
